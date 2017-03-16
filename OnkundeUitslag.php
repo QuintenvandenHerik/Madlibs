@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-Er zijn veel mensen die niet kunnen ___. Neem nou ___. Zelfs met de hulp van een ___ of zelfs ___ kan ___ niet ___. Dat heeft niet te maken met een gebrek aan ___, maar met een te veel aan ___. Te veel ___ leidt tot ___ en dat is niet goed als je wilt ___. Helaas voor ___.
+Er zijn veel mensen die niet kunnen <?php echo $_POST["Learn"]; ?>. Neem nou <?php echo $_POST["Progress"]; ?>. Zelfs met de hulp van een <?php echo $_POST["Vacation"]; ?> of zelfs <?php echo $_POST["Number"]; ?> kan <?php echo $_POST["Progress"]; ?> niet <?php echo $_POST["Learn"]; ?>. Dat heeft niet te maken met een gebrek aan <?php echo $_POST["Best"]; ?>, maar met een te veel aan <?php echo $_POST["Worst"]; ?>. Te veel <?php echo $_POST["Worst"]; ?> leidt tot <?php echo $_POST["Happening"]; ?> en dat is niet goed als je wilt <?php echo $_POST["Learn"]; ?>. Helaas voor <?php echo $_POST["Progress"]; ?>.
 </body>
 </html>

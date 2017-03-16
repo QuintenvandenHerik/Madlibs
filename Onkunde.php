@@ -7,10 +7,10 @@
   <form method="post" action="OnkundeUitslag.php">
     <p>
       <label>Wat zou jij graag willen kunnen?</label>
-      <input type="text" name="Can"/>
+      <input type="text" name="Learn"/>
     </p>
     <p>
-      <label>Mest welk persoon kun je goed opschieten?</label>
+      <label>Met welk persoon kun je goed opschieten?</label>
       <input type="text" name="Progress"/>
     </p>
     <p>
