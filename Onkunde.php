@@ -4,6 +4,7 @@
 </head>
 
 <body>
+<h1>Madlibs</h1>
   <form method="post" action="OnkundeUitslag.php">
     <p>
       <label>Wat zou jij graag willen kunnen?</label>

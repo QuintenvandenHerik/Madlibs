@@ -4,6 +4,7 @@
 </head>
 
 <body>
+<h1>Madlibs</h1>
   <form method="post" action="PaniekUitslag.php">
     <p>
       <label>Welk dier zou jij nooit als huisdier willen hebben?</label>
