@@ -3,15 +3,68 @@
 	padding: 0;
 }
 
+body {
+	background-color: #333333;
+}
+
+label
+{
+  float: left;
+  width: 300px;
+}
+
+form p
+{
+  clear: left;
+  margin: auto;
+}
+
 h1 {
-	text-align: center;
-	font-size: 40px;
+	margin: auto;
+	width: 50%;
+	color: white;
+	font-size: 75px;
+	margin-bottom: 15px;
 }
 
-p {
+a {
+	color: white;
+	padding-right: 20px;
+	text-decoration: none;
+}
+
+.links {
+	background-color: #A5290D;
+	width: 50%;
+	margin: auto;
+	padding: 10px;
+}
+
+.collum {
+	background-color: white;
+	width: 50%;
+	margin: auto;
+	padding: 10px;
+}
+
+.copyright {
+	background-color: #474747;
+	width: 50%;
+	margin: auto;
+	padding: 10px;
+}
+
+.submit {
+	margin: auto;
+}
+
+div.copyright p {
+	color: white;
 	text-align: center;
 }
 
-form {
-	width: 300px;
+input[type="text"]
+{
+  width: 250px;
 }
+
